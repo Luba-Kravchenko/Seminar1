@@ -1,5 +1,7 @@
-﻿int a = -9;
-int b = -3;
+﻿Console.Write("a = ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("b = ");
+int b = Convert.ToInt32(Console.ReadLine());
 
 int max = a;
 
